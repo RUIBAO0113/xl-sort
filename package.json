@@ -1,6 +1,6 @@
 {
   "name": "xl-sort",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-column sorting",
   "main": "index.js",
   "scripts": {
