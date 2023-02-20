@@ -1,0 +1,23 @@
+{
+  "name": "xl-sort",
+  "version": "1.0.1",
+  "description": "Multi-column sorting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUIBAO0113/xl-sort.git"
+  },
+  "keywords": [
+    "Multicolumn",
+    "Sort"
+  ],
+  "author": "RUIBAO0113",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RUIBAO0113/xl-sort/issues"
+  },
+  "homepage": "https://github.com/RUIBAO0113/xl-sort#readme"
+}
