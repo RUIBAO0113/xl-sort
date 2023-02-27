@@ -131,7 +131,7 @@ const sortInstance = new XLSort();
 sortInstance.subConf("CUSTOM", {
   configId: 0, // 主键 用于更新删除排序规则
   order: "asc", // "asc"升序 或者 "desc"降序
-  field: "base", // 指定以Date字段排序
+  field: "base", // 指定以base字段排序
   sortType: "string", // 指定字段排序类型 三种 'string' 或 'number' 或者 'date'
 });
 sortInstance.subConf("CUSTOM", {
@@ -153,7 +153,7 @@ sortInstance.dispatchSort("CUSTOM", {
 sortInstance.subConf("CUSTOM2", {
   configId: 0, // 主键用于 更新 删除排序规则
   order: "asc", // "asc"升序 或者 "desc"降序
-  field: "base", // 指定以Date字段排序 类型为 string || function
+  field: "base", // 指定以base字段排序 类型为 string || function
   sortType: "string", // 指定字段排序类型 三种 'string' 或 'number' 或者 'date'
 });
 sortInstance.subConf("CUSTOM2", {
